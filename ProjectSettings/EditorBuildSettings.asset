@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BonusScene.unity
     guid: 3bdcb65c0b55cbb48b5be7c87dbbf66f
+  - enabled: 1
+    path: Assets/Scenes/Endroll.unity
+    guid: eaf97a734a934634f9dbfed4749de66f
   m_configObjects: {}
